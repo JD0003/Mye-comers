@@ -1,0 +1,172 @@
+{
+  "productos": [
+    {
+      "name": "Silver Buffalo Star Wars Stormtrooper ",
+      "img": "/assets/productos_img/unsplash_6FDXGY9J6y4.png",
+      "price": "16.00",
+      "id": "0",
+      "categoria": "Star Ward",
+      "descripcion": "Taza de café esculpida 3D: nuestra taza de café esculpida 3D tiene capacidad para 20 onzas de tu café favorito con leche, capuchino o goteo cuando necesites aprovechar la fuerza por la mañana."
+    },
+    {
+      "name": "LEGO Star Wars Darth Vader",
+      "img": "/assets/productos_img/unsplash_epRFE_hBNjo.png",
+      "price": "40.00",
+      "id": "1",
+      "descripcion": "Este juego de construcción coleccionable LEGO Star Wars para adultos cuenta con un casco de Darth Vader amenazantemente detallado con un soporte y placa de identificación.",
+      "categoria": "Star Ward"
+    },
+    {
+      "name": "Figura de Yoda",
+      "img": "/assets/productos_img/unsplash_KeGToDVN0l4.png",
+      "price": "15",
+      "id": "2",
+      "categoria": "Star Ward",
+      "descripcion": "Estilizados coleccionable mide 3 3/4 inches, perfecto para cualquier fan de Star Wars."
+    },
+    {
+      "name": "Disfraz de Stormtrooper",
+      "img": "/assets/productos_img/unsplash_4OHkK555s1A.png",
+      "price": "100",
+      "id": "3",
+      "categoria": "Star Ward",
+      "descripcion": "100 % poliéster-\nImportado-\nCierre de Pull On-\nLavar a mano-\noverol con EVA moldeada piezas-\n2 piezas casco-\nArma no incluidos-\n100% poliéster."
+    },
+    {
+      "name": "Grogu - Peluche con armadura Beskar",
+      "img": "/assets/productos_img/unsplash_R8L1l9RN198.png",
+      "price": "17.00",
+      "id": "4",
+      "descripcion": "Inspirado en Star Wars The Book of Boba Fett, este peluche Beskar Armor Grogu lleva su armadura Beskar bajo su icónica bata beige.\nAproximadamente 8 pulgadas de alto, el peluche es perfecto para aventuras galácticas en movimiento.",
+      "categoria": "Star Ward"
+    },
+    {
+      "name": "The Black Series Darth Revan",
+      "img": "/assets/productos_img/unsplash_1VV1MRafd7A.png",
+      "price": "44",
+      "id": "5",
+      "descripcion": "Crea aventuras y escenas de Star Wars Entretenimiento\nRecoger la amplia gama de articulado las cifras de acción de Star Wars que están cada uno se vende por separado. La mayoría de los vehículos de Star Wars tienen funciones realistas de acción. Pretend para ser personajes favoritos con el role-play Gear. Batalla como un Jedi o Sith, un Rebel o imperial Trooper, un Battle Droid o Clone Trooper.",
+      "categoria": "Star Wars"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_sYVY_ZKwaxU.png",
+      "name": "Sonic The Hedgehog Figura de acción clásica",
+      "price": "6.25",
+      "descripcion": "Sonic The Hedgehog Figura de acción clásica de 2.5 pulgadas",
+      "categoria": "Videojuegos",
+      "id": "nlY5FWP"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_r27umXAelDc.png",
+      "name": "Pikachu - Juguete de peluche grande",
+      "price": "41",
+      "descripcion": "Bonito y tierno juguete de peluche de Pokémon Pikachu de 12 pulgadas es imprescindible para todos los fans de Pokémon, ¡Tienes que atraparlos a todos! Esta figura de felpa súper suave es ideal para llevar donde quiera que vayas",
+      "categoria": "Videojuegos",
+      "id": "qdUIMIP"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61SyaXTMPAL._AC_SX679_.jpg",
+      "name": "Super Mario Figura de Mario",
+      "price": "18",
+      "descripcion": "Detalles y texturas de primera calidad, Hasta 12 puntos de articulación oculta, Incluye accesorio de película, Viene en embalaje de coleccionista, Sugerido para niños a partir de 3 años",
+      "categoria": "Videojuegos",
+      "id": "zkNSkU_"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_0POwK6iAiRQ.png",
+      "name": "Controller Xbox",
+      "price": "32.99",
+      "descripcion": "Amplia compatibilidad: el controlador Xbox es perfectamente compatible con sistemas Microsoft Xbox Series S; Xbox Series X; Xbox One S; Xbox One X; Xbox One; PS3; PC; Windows 7/8/10/11.",
+      "categoria": "Consolas",
+      "id": "NfbA7TB"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_bUgaIaZysH0.png",
+      "name": "Nintendo Switch",
+      "price": "350",
+      "descripcion": "3 estilos de reproducción: modo de TV, modo de mesa, modo de mano.",
+      "categoria": "Consolas",
+      "id": "fTZyvFH"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_caNzzoxls8Q.png",
+      "name": "PlayStation 5",
+      "price": "500",
+      "descripcion": "Impresionantes juegos: maravíllate con gráficos increíbles y experimenta nuevas funciones de PS5. Inmersión impresionante: descubre una experiencia de juego más profunda con soporte para retroalimentación háptica, disparadores adaptativos y tecnología de audio 3D. Velocidad de rayo: aprovecha la potencia de una CPU, GPU y SSD personal",
+      "categoria": "Consolas",
+      "id": "uN2eutE"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_fMP-oCze3AY.png",
+      "name": "Camiseta Konami",
+      "price": "20.35",
+      "descripcion": "Secadora. - Alta calidad - Super suave hilado en anillos algodón - Custom impreso caliente Apagado La prensa en el momento de la orden",
+      "categoria": "Videojuegos",
+      "id": "USW1M3l"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_jMT6BrgBuXU.png",
+      "name": "Reloj despertador radio",
+      "price": "17.90",
+      "descripcion": " Reloj despertador LED de escritorio con espejo pop (3 colores disponibles; rosa, blanco, azul menta)",
+      "categoria": "Accesorios",
+      "id": "zySvqXn"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_k-xYhI3-gJM.png",
+      "name": "Game Boy Color",
+      "price": "16.00",
+      "descripcion": "- Este producto de segunda mano ha sido inspeccionado, probado y limpiado profesionalmente por proveedores calificados de Amazon.\n- Este producto se encuentra en “excelente estado”. La pantalla y la carcasa no muestran signos de daños estéticos visibles a 12 pulgadas de distancia.",
+      "categoria": "Consolas",
+      "id": "eJyLgL7"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_MxVkWPiJALs.png",
+      "name": "VR",
+      "price": "32",
+      "descripcion": "Hardware de siguiente nivel: haz que cada movimiento cuente con un procesador ultrarrápido y nuestra pantalla de la más alta resolución",
+      "categoria": "Consolas",
+      "id": "M4FaUzY"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_Zjn4dT993-g.png",
+      "name": "Xbox Series X ",
+      "price": "500",
+      "descripcion": "Presentamos Xbox Series X, la Xbox más rápida y potente de la historia. Juega miles de títulos de cuatro generaciones de consolas, todos los juegos se ven y juegan mejor en Xbox Series X.",
+      "categoria": "Consolas",
+      "id": "umjnqwD"
+    },
+    {
+      "img": "/assets/productos_img/unsplash_ZV7lnfyQLmA.png",
+      "name": "Nintendo Famicom",
+      "price": "50",
+      "descripcion": "AV modificado para una imagen limpia y fuerte en televisores de pantalla plana a través de un conector de salida AV.",
+      "categoria": "Consolas",
+      "id": "aoOlSEg"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81Fq2dHXTWL._SL1500_.jpg",
+      "name": "Sonic Frontiers - Nintendo Switch",
+      "price": "40",
+      "descripcion": "Conviértete en Sonic y viaja para descubrir los misterios de los restos de una antigua civilización plagada de hordas robóticas",
+      "categoria": "Videojuegos",
+      "id": "lsSiiyO"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81Pagnfx1DL._AC_SL1500_.jpg",
+      "name": "God of War Ragnarök - PlayStation 5",
+      "price": "70",
+      "descripcion": "Disfruta de los hermosos mundos por los que viajas, traídos a la vida por una dirección de arte precisa y deteniendo la atención al detalle.",
+      "categoria": "Videojuegos",
+      "id": "PNKQqJb"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71dRF+n89TL._SL1346_.jpg",
+      "name": "Xbox Series X - Halo Infinite Limited Edition",
+      "price": "27",
+      "descripcion": "Bono de pedidos anticipados: Aparta el Halo Infinite para recibir la armadura protectora Zeta Sky así como el emblema elegido y la placa de identificación. Los códigos se distribuirán en el día de su lanzamiento para Halo Infinite Title. *En algunos casos, puede tardar hasta 24 horas después de la fecha de lanzamiento para que los códigos se distribuyan.",
+      "categoria": "Consolas",
+      "id": "ubM7SNR"
+    }
+  ]
+}

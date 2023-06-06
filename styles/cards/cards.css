@@ -1,0 +1,45 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card_no{
+    display: none;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 1rem;
+}
+
+.card_img{
+    height: 11rem;
+    width: 11rem;
+}
+
+.card_titulo{
+    padding-top: 0.5rem;
+    width: 10rem;
+}
+
+.card_categoria{
+    padding-top: 0.5rem;
+}
+
+.card_precio{
+    padding-top: 0.5rem;
+}
+
+.card_ver{
+    padding-top: 0.5rem;
+}
+
+a:link {
+    color: #2A7AE4;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #2A7AE4;
+}

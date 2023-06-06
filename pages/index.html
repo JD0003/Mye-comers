@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/default/reset.css">
+    <link rel="stylesheet" href="../styles/default/menu.css">
+    <link rel="stylesheet" href="../styles/index/banner.css">
+    <link rel="stylesheet" href="../styles/index/productos.css">
+    <link rel="stylesheet" href="../styles/default/footer.css">
+    <link rel="stylesheet" href="../styles/default/rodapie.css">
+    <link rel="stylesheet" href="../styles/index/B_login.css">
+    <link rel="stylesheet" href="../styles/cards/cards.css">
+    <title>Mye-comerce</title>
+</head>
+<body>
+    <!-- Menu -->
+    <section class="navegador">
+        <a href="/pages/index.html"><img class="N_logo" src="../assets/menu/Logo.png" alt="logo"></a>
+        <nav class="conteinder_Menu">
+            <form method="get" class="buscador">
+                <input type="search" placeholder="¿Qué deseas buscar?" class="C_Buscador" id="buscador">
+                <img class="B_Buscador" alt="buscador" src="../assets/menu/Buscador.png">
+            </form>
+            <button onclick="window.location.href='/pages/login.html';" class="B_Login">Login</button>
+        </nav>
+    </section>
+    <!-- Banner-->
+    <section class="banner">
+        <div class="conteiner_banner">
+            <div class="titulos_banner">
+                <h1 class="titulo_primario_banner">Febrero Promocional</h1>
+                <h3 class="titulo_secundario_banner">Productos selecionados con 33% de descuento</h3>
+            </div>
+            <!--<button class="B_Banner">Ver Consolas</button>-->
+        </div>
+
+    </section>
+    <!-- Productos -->
+    <section class="productos" >
+        <section class="cards" ></section>
+        <div class="conteiner_productos">
+            <h1 class="titulo_productos">Productos</h1>
+            <!-- <div class="seccion_productos">
+                <button class="B_productos">Ver todo<img src="../assets/productos/Vector.png" alt="" srcset=""></button>
+            </div>-->
+        </div>
+        <!-- cards -->
+        <section class="cards" data-product></section>
+            
+    </section>
+    <!-- Footer -->
+    <section class="footer">
+        <img class="img_footer" src="../assets/footer/Logo.png" alt="logo">
+        <div class="footer_direcciones">
+            <ul class="footer_listas">
+                <li class="items_lista">Quienes somos</li>
+                <li class="items_lista">Política de privacidad</li>
+                <li class="items_lista">Programa de fidelidad</li>
+                <li class="items_lista">Nuestras Tiendas</li>
+                <li class="items_lista">Quiero ser franquiciado</li>
+                <li class="items_lista">Anúncie aquí</li>
+            </ul>
+        </div>
+        <div class="footer_comunicado">
+            <form action="" class="footer_formulario" data-footer>
+                <h4 class="footer_titulo">Hable con nosotros</h4>
+                <label for="nombre-input-form" class="footer_label">Nombre</label>
+                <input id="nombre-input-form" type="text" class="footer_input" data-footer-t required>
+                <textarea class="footer_textarea" name="" id="" cols="30" rows="10" placeholder="Escribe su mensaje" data-footer-c required></textarea>
+                <button class="B_footer">Enviar mensaje</button>
+            </form>
+        </div>    
+    </section>
+    <!-- Rodapie -->
+    <section class="rodapie">
+        <div class="conteiner_rodapie">
+            <p class="parrafo_rodapie">Desarrollado por Jose David(JD) Gonzalez
+                <br/>2021</p>
+        </div>
+    </section>
+    <script src="/controllers/productos-control.js" type="module"></script>
+    <script src="/script/search.js"></script>
+    <script src="/script/formulario.js"></script>
+</body>
+</html>

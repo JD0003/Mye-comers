@@ -1,0 +1,14 @@
+.conteiner_rodapie{
+    height: 6.3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.parrafo_rodapie{
+    display: flex;
+    font-size: 16px;
+    font-weight: 500;
+}

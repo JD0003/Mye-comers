@@ -1,0 +1,82 @@
+.agregar{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #E5E5E5;
+    padding: 4rem 0;
+}
+
+.conteinder_agregar{
+    width: 31.2rem;
+}
+
+.agregar_titulo{
+    color:  #464646;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.agregar_formulario{
+    display: flex;
+    flex-direction: column;
+}
+
+.agregar_label{
+    margin-top: 0.7rem;
+    color: #A2A2A2;
+    background-color: #ffffff;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 0.5rem 1rem ;
+}
+
+.agregar_input{
+    align-items: center;
+    border: none;
+    box-shadow: 0 1px 0 0 #C8C8C8;
+    height: 1.5rem;
+    padding: 0.3rem 1rem;
+}
+.agregar_input:focus{
+    outline: none;
+}
+
+.agregar_texarea{
+    margin-top: 0.7rem;
+    height: 5.1rem;
+    resize: none;
+    border: none;
+    box-shadow: 0 1px 0 0 #C8C8C8;
+    padding: 0.5rem 1rem ;
+}
+
+.agregar_texarea::placeholder{
+    color: #A2A2A2;
+    font-size: 12px;
+    font-weight: 400;
+}
+.B_agregar{
+    margin-top: 0.7rem;
+    border: none;
+    background-color: #2A7AE4;
+    color: #ffffff;
+    height: 3.3rem;
+}
+
+@media screen and (max-width: 460px) {
+    .conteinder_agregar{
+        width: 20rem;
+    }
+    .agregar_titulo{
+        text-align: center;
+    }
+}
+@media screen and (min-width: 461px) and (max-width: 700px){
+    .conteinder_agregar{
+        width: 25rem;
+    }
+    .agregar_titulo{
+        text-align: center;
+    }
+}

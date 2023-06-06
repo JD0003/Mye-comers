@@ -1,0 +1,49 @@
+.editar{
+    background-color: #F5F5F5;
+    padding: 2rem 4rem ;
+}
+
+.conteiner_editar{
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.editar_titulo{
+    margin-left: 3.5rem;
+    color:  #464646;
+    font-size: 32px;
+    font-weight: 700;
+    align-self: center;
+}
+
+.B_editar{
+    background-color: rgb(42, 122, 228);
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 9.5rem;
+    height: 3.3rem;
+}
+
+.buttonDelete{
+    background: transparent;
+    border: none;
+}
+
+.buttonEdit{
+    background: transparent;
+    border: none;
+}
+
+@media screen and (max-width: 600px) {
+    .conteiner_editar{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .editar_titulo{
+        margin-left: 0;
+        margin-bottom: 1rem;
+    }
+}

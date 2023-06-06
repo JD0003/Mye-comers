@@ -1,0 +1,49 @@
+.login{
+    background-color: #E5E5E5;
+}
+
+.conteiner_login{
+    padding: 4rem  0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login_formulario{
+    display: flex;
+    flex-direction: column;
+    width: 27.5rem;
+}
+
+.login_titulo{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.login_input{
+    padding-left: 0.5rem;
+    margin-top: 1.5rem;
+    box-shadow: 0 1px 0 0 #C8C8C8;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    height: 4rem;
+}
+
+.login_input:focus{
+    outline: none;
+}
+
+.B_Entrada{
+    margin-top: 1.5rem;
+    background-color: #2A7AE4;
+    color: #ffffff;
+    border: none;
+    height: 4rem;
+}
+
+@media screen and (max-width: 600px) {
+    .login_formulario{
+        width: 20rem;
+    }
+}
